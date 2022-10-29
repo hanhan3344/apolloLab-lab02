@@ -2,10 +2,10 @@
 /apollo/control and /apollo/canbus/chassis virualization tool
 
 ## Install
-You can install `ipath` by below cmd.
+You can install `cyber_draw` by below cmd.
 ```shell
-gti clone 
-cd dist
+gti clone https://github.com/hanhan3344/apolloLab-lab02.git
+cd apolloLab-lab02/dist
 pip install cyber_draw-1.0.tar.gz
 ```
 
